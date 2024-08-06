@@ -1,0 +1,12 @@
+print("Enter the name of 3 favorite movie:")
+movie1=input("movie1=")
+movie2=input("movie2=")
+movie3=input("movie3=")
+print(movie1)
+print(movie2)
+print(movie3)
+list1=[]
+list1.append(movie1)
+list1.append(movie2)
+list1.append(movie3)
+print(list1)
